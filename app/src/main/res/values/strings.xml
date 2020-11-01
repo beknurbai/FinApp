@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FinApp</string>
+    <string name="Accounts">Счет</string>
+    <string name="Costs">Расходы</string>
+    <string name="Successes">Успехи</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valut">Валюта</string>
+    <string-array name="valut_item">
+        <item>Русский</item>
+        <item>English</item>
+    </string-array>
+
+</resources>
